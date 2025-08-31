@@ -52,6 +52,15 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				cinema: {
+					gold: 'hsl(var(--cinema-gold))',
+					premium: 'hsl(var(--cinema-premium))',
+				},
+				seat: {
+					available: 'hsl(var(--seat-available))',
+					selected: 'hsl(var(--seat-selected))',
+					occupied: 'hsl(var(--seat-occupied))',
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
